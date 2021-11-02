@@ -26,7 +26,7 @@
 #   edk2/OVMF (for hdimage)
 #
 # Otherwise try to stick to POSIX shell commands...
-#
+
 
 # Use "make V=1" to debug this script
 case "${KBUILD_VERBOSE}" in
